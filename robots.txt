@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flashspeedie.github.io/sitemap.xml
